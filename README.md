@@ -1,6 +1,6 @@
 # eloquent-javascript
 Eloquent Javascript Book Exercises
 
-ch07 - elife project
+Extras:
 
-Created a custom animated representation of the world and its elements using D3.
+- Created a custom animated representation of the world and its elements using D3 for ch07 - elife project.
